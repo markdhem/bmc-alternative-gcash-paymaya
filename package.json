@@ -1,0 +1,8 @@
+{
+  "name": "gcash-paymaya-plugin-cdn",
+  "version": "1.0.0",
+  "description": "GCash/PayMaya Tip Jar Plugin served via CDN",
+  "scripts": {
+    "start": "echo 'Serving static file...'"
+  }
+}
